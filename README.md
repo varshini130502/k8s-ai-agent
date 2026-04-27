@@ -47,12 +47,3 @@ curl -X POST "http://localhost:8000/webhook" -H "Content-Type: application/json"
 ```
 
 ---
-
-## 📝 How to put this on your Resume
-Add this to your **Projects** section:
-
-**AI-Powered Kubernetes Copilot (AIOps/ChatOps)**
-* **Tech Stack:** Python, Google Gemini LLM API, FastAPI, Kubernetes
-* Engineered an autonomous, Python-based ChatOps agent utilizing the Gemini LLM to translate natural language queries into executable `kubectl` commands, improving Kubernetes developer experience (DevEx).
-* Developed an **Auto-Fix** feedback loop that automatically catches terminal `stderr` outputs from failed commands and prompts the LLM to self-heal and re-execute, vastly improving system resilience.
-* Architected a modular backend design exposing both an interactive CLI interface with memory management and a FastAPI webhook endpoint intended for seamless CI/CD or Slack bot integrations.
