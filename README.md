@@ -1,4 +1,4 @@
- 03qq1    UHUU0 Advanced Kubernetes AI Copilot (AIOps/ChatOps)
+Advanced Kubernetes AI Copilot (AIOps/ChatOps)
 
 A powerful, highly modular AI-driven tool that translates plain English into exact Kubernetes (`kubectl`) commands, executes them securely, and automatically heals failing commands.
 
